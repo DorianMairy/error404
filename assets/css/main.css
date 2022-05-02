@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(/error404/assets/img/background.jpg);
+}
+.center {
+    text-align: center;
+    color: white;
+    font-size: 120px;
+    height: 0px;
+    margin: 200px;
+
+}
+.not {
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    height: 0px;
+    margin-top: 20px;
+}
+.github {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    height: 0px;
+    margin-top: 120px;
+}
