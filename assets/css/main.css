@@ -27,3 +27,20 @@ body {
     height: 0px;
     margin-top: 120px;
 }
+a {
+    color: white;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    animation-name: background-color;
+    animation-duration: 2000ms;
+    }
+
+    @keyframes background-color {
+        100% {
+        color: brown;
+    }
+}
